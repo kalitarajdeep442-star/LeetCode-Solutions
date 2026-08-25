@@ -23,6 +23,7 @@ My LeetCode solutions and problem-solving journey
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
 |  |
 | ------- |
@@ -35,4 +36,8 @@ My LeetCode solutions and problem-solving journey
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0146-lru-cache) |
+## Array
+|  |
+| ------- |
+| [3718-smallest-missing-multiple-of-k](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 <!---LeetCode Topics End-->
