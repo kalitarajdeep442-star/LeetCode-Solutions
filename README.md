@@ -36,6 +36,7 @@ My LeetCode solutions and problem-solving journey
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0307-range-sum-query-mutable](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0307-range-sum-query-mutable) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -43,6 +44,7 @@ My LeetCode solutions and problem-solving journey
 ## Array
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sliding Window
 |  |
@@ -56,4 +58,20 @@ My LeetCode solutions and problem-solving journey
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0307-range-sum-query-mutable) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
