@@ -17,6 +17,7 @@ My LeetCode solutions and problem-solving journey
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Monotonic Stack
 |  |
@@ -45,6 +46,7 @@ My LeetCode solutions and problem-solving journey
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0307-range-sum-query-mutable) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sliding Window
 |  |
