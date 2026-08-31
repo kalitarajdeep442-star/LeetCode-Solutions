@@ -12,33 +12,33 @@ class Solution {
 public:
     vector<int> nodesBetweenCriticalPoints(ListNode* head){
         vector<int> result = {-1, -1}; 
-        int minDistance = INT_MAX; 
-        ListNode* previousNode = head;
-        ListNode* currentNode = head->next;
-        int currentIndex = 1;
-        int previousCriticalIndex = 0;
-        int firstCriticalIndex = 0;
+        int minDist = INT_MAX; 
+        ListNode* prevNode = head;
+        ListNode* currNode = head->next;
+        int currInd = 1;
+        int prevInd = 0;
+        int firstInd = 0;
 
-        while (currentNode->next != nullptr){ 
-            if ((currentNode->val < previousNode->val &&currentNode->val < currentNode->next->val) ||
-            (currentNode->val > previousNode->val &&currentNode->val > currentNode->next->val)){ 
-                if (previousCriticalIndex == 0) {
-                    previousCriticalIndex = currentIndex;
-                    firstCriticalIndex = currentIndex;
+        while (currNode->next != nullptr){ 
+            if ((currNode->val < prevNode->val &&currNode->val < currNode->next->val) ||
+            (currNode->val > prevNode->val &&currNode->val > currNode->next->val)){ 
+                if (prevInd == 0) {
+                    prevInd = currInd;
+                    firstInd = currInd;
                 } 
                 else{ 
-                    minDistance =
-                        min(minDistance, currentIndex - previousCriticalIndex);
-                    previousCriticalIndex = currentIndex;
+                    minDist =
+                        min(minDist, currInd - prevInd);
+                    prevInd = currInd;
                 }
             } 
-            currentIndex++;
-            previousNode = currentNode;
-            currentNode = currentNode->next;
+            currInd++;
+            prevNode = currNode;
+            currNode = currNode->next;
         } 
-        if (minDistance != INT_MAX){
-            int maxDistance = previousCriticalIndex - firstCriticalIndex;
-            result = {minDistance, maxDistance};
+        if (minDist != INT_MAX){
+            int maxDist = prevInd - firstInd;
+            result = {minDist, maxDist};
         } 
         return result;  
     }
