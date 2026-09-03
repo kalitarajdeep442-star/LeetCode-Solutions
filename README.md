@@ -56,6 +56,7 @@ My LeetCode solutions and problem-solving journey
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -88,6 +89,7 @@ My LeetCode solutions and problem-solving journey
 |  |
 | ------- |
 | [3875-construct-uniform-parity-array-i](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Tree
 |  |
 | ------- |
