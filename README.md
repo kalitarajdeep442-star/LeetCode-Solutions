@@ -59,6 +59,7 @@ My LeetCode solutions and problem-solving journey
 | [3876-construct-uniform-parity-array-ii](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -75,14 +76,17 @@ My LeetCode solutions and problem-solving journey
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0307-range-sum-query-mutable) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0307-range-sum-query-mutable) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0307-range-sum-query-mutable) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Sqrt Decomposition
 |  |
 | ------- |
@@ -127,6 +131,7 @@ My LeetCode solutions and problem-solving journey
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -141,4 +146,8 @@ My LeetCode solutions and problem-solving journey
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+## Merge Sort
+|  |
+| ------- |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 <!---LeetCode Topics End-->
