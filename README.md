@@ -114,6 +114,7 @@ My LeetCode solutions and problem-solving journey
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -128,6 +129,7 @@ My LeetCode solutions and problem-solving journey
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -143,6 +145,7 @@ My LeetCode solutions and problem-solving journey
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Prefix Sum
 |  |
 | ------- |
