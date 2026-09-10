@@ -33,6 +33,7 @@ My LeetCode solutions and problem-solving journey
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -114,6 +115,7 @@ My LeetCode solutions and problem-solving journey
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -130,6 +132,7 @@ My LeetCode solutions and problem-solving journey
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -147,6 +150,7 @@ My LeetCode solutions and problem-solving journey
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Prefix Sum
@@ -164,6 +168,7 @@ My LeetCode solutions and problem-solving journey
 | [0104-maximum-depth-of-binary-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## DP on Trees
 |  |
