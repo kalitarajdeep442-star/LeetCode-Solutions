@@ -35,6 +35,7 @@ My LeetCode solutions and problem-solving journey
 | [0146-lru-cache](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Linked List
@@ -56,6 +57,7 @@ My LeetCode solutions and problem-solving journey
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -73,6 +75,7 @@ My LeetCode solutions and problem-solving journey
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Divide and Conquer
 |  |
@@ -195,4 +198,8 @@ My LeetCode solutions and problem-solving journey
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
