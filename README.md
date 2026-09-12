@@ -32,6 +32,7 @@ My LeetCode solutions and problem-solving journey
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0146-lru-cache](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -55,6 +56,7 @@ My LeetCode solutions and problem-solving journey
 ## Array
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0307-range-sum-query-mutable](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -80,6 +82,7 @@ My LeetCode solutions and problem-solving journey
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0307-range-sum-query-mutable](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Binary Indexed Tree
@@ -111,6 +114,7 @@ My LeetCode solutions and problem-solving journey
 | [0101-symmetric-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -147,6 +151,7 @@ My LeetCode solutions and problem-solving journey
 | [0101-symmetric-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
