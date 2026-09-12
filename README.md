@@ -115,6 +115,7 @@ My LeetCode solutions and problem-solving journey
 | [0124-binary-tree-maximum-path-sum](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -150,6 +151,7 @@ My LeetCode solutions and problem-solving journey
 | [0124-binary-tree-maximum-path-sum](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -202,4 +204,12 @@ My LeetCode solutions and problem-solving journey
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
