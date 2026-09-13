@@ -58,6 +58,7 @@ My LeetCode solutions and problem-solving journey
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0307-range-sum-query-mutable](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0307-range-sum-query-mutable) |
+| [0835-image-overlap](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -217,4 +218,8 @@ My LeetCode solutions and problem-solving journey
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/kalitarajdeep442-star/LeetCode-Solutions/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
